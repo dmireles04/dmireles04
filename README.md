@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SIEM Dashboard and Capabilities (WAZUH, Linux Ubuntu)</b>
-  - [SIEM Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SIEM Project](https://github.com/dmireles04/SIEM-Lab-Wazuh-)
 - <b>Windows AD within a VM (Oracle VirtualBox, Windows Server Manager, Windows Active Directory)</b>
   - [Windows Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>File Integrity Monitor (PowerShell)</b>
