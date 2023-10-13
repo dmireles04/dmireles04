@@ -5,7 +5,7 @@
 - <b>SIEM Dashboard and Capabilities (WAZUH, Linux Ubuntu)</b>
   - [SIEM Project](https://github.com/dmireles04/SIEM-Lab-Wazuh-)
 - <b>Windows AD within a VM (Oracle VirtualBox, Windows Server Manager, Windows Active Directory)</b>
-  - [Windows Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Windows Active Directory](https://github.com/dmireles04/WindowsAD-within-a-VM) <b>
 - <b>File Integrity Monitor (PowerShell)</b>
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
