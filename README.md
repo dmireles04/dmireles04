@@ -14,22 +14,19 @@
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-- 🔭 I’m currently working on obtaining my ISACA CISM certification
-- 🌱 I’m currently learning Microsoft Sentinel
-- 🤔 I’m looking for full-time employment as a Cybersecurity Assessor/Auditor
+- 🧑‍🎓 I’m currently working on obtaining my ISACA CISM certification
+- 📖: I’m currently learning Microsoft Sentinel
+- 🔎 I’m looking for full-time employment as a Cybersecurity Assessor/Auditor
 - 📫 How to reach me: daniel.x.mireles@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Call of Duty Warzone on youtube - and I'm not half bad!!
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="DanielMireles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: www.linkedin.com/in/daniel-mireles-457038100
+🔗: [linkedin]: www.linkedin.com/in/daniel-mireles-457038100
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dmireles04/dmireles04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
