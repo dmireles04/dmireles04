@@ -10,6 +10,17 @@
   - [FIM (File Integrity Monitor)](https://github.com/dmireles04/FileIntegrityMonitor)
 
 
+<h2>📜 Certifications</h2>
+
+- [CompTIA SecurityPlus](https://www.credly.com/badges/91f9b54b-3e5c-4433-bec4-6e91196545b3)
+<img src="https://imgur.com/CnmITid.png" height="40%" width="40%" alt="Wazuh"/>
+
+<br/>
+<br/>
+
+- [ISC2 Cybersecurity Certificate](https://www.credly.com/earner/earned/badge/e4dfe4f5-024f-43cd-b8e5-9a53ecbcde0e)
+<img src="https://imgur.com/e9sVnpg.png" height="42%" width="42%" alt="Wazuh"/>
+
 <h2>💬 A bit about me:</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
