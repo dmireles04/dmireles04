@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/dmireles04">Cybersecurity Professional</a>, <a href="www.linkedin.com/in/daniel-mireles-457038100">LinkedIn</a>
+<h1>Hi, I'm Daniel! <br/><a>Cybersecurity Professional</a> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
