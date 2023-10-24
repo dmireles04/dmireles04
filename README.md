@@ -23,7 +23,6 @@
 
 <h2>💬 A bit about me:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 - 🧑‍🎓 I’m currently working on obtaining my ISACA CISM certification
 - 📖: I’m currently learning Microsoft Sentinel
@@ -34,7 +33,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-🔗: [linkedin]: www.linkedin.com/in/daniel-mireles-457038100
+🔗: [linkedin]: https://github.com/dmireles04
 
 <!--
 **dmireles04/dmireles04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
